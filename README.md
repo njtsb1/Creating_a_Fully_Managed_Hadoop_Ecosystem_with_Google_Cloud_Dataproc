@@ -29,4 +29,4 @@ NOTE: If the Job shows an Interrupt WARN, just ignore it. There is a bug in Hado
 
 Any suggestions, feel free to get in touch.
 
-# Nivaldo Beirão - njtsb1@gmail.com
+Nivaldo Beirão - njtsb1@gmail.com
