@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-__*Creating a Fully Managed Hadoop Ecosystem with Google Cloud Dataproc*__
+# __*Creating a Fully Managed Hadoop Ecosystem with Google Cloud Dataproc*__
 
 The challenge is to perform data processing using the Dataproc product from GCP. This processing will count the words of a book and inform how many times each word appears in it.
 
@@ -21,6 +21,7 @@ The challenge is to perform data processing using the Dataproc product from GCP.
 1. Create a file called ```result.txt```. Inside this file, put the 10 words that are most used in the book, according to the Job result.
 2. Insert the files ```result.txt``` and ```part-00000``` in the repository.
 
+[LICENSE](./LICENSE)
 ---
 
 ### Final considerations
