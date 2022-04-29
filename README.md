@@ -22,6 +22,7 @@ The challenge is to perform data processing using the Dataproc product from GCP.
 2. Insert the files ```result.txt``` and ```part-00000``` in the repository.
 
 [LICENSE](./LICENSE)
+
 ---
 
 ### Final considerations
