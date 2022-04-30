@@ -2,7 +2,8 @@ Daily learning
 
 # __*Creating a Fully Managed Hadoop Ecosystem with Google Cloud Dataproc*__
 
-The challenge is to perform data processing using the Dataproc product from GCP. This processing will count the words of a book and inform how many times each word appears in it.
+Project developed at Bootcamp Cognizant Cloud Data Engineer #2 of Digital Innovation One with the instruction of specialist [Marcelo Marques](https://github.com/marcelomarques05 "Marcelo Marques").
+Learning to build a Big Data ecosystem using Google Cloud Platform (GCP) and configure Hadoop Google Cloud Dataproc with Python.
 
 ---
 
